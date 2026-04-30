@@ -6,7 +6,6 @@ A simple Python tool that checks how strong a password is based on different rul
 
 ## 📸 Screenshot
 
-> Add your screenshot below
 
 ![Password Strength Checker Screenshot](pass_strength.png)
 
