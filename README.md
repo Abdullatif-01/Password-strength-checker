@@ -42,5 +42,4 @@ A simple Python tool that checks how strong a password is based on different rul
 
 ## 👨‍💻 Author
 
-**Abdo**  
-Cybersecurity Student | Networking Basics | Python Enthusiast
+**Abdullatif Traisi**  
