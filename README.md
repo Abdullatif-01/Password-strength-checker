@@ -1,2 +1,47 @@
-# Password-strength-checker
-A Python password strength checker that evaluates how strong a password is based on its length and the use of uppercase letters, lowercase letters, numbers, and symbols. It gives a score and classifies the password as weak, medium, or strong, and allows the user to check multiple passwords in one session.
+# 🔐 Password Strength Checker (Python)
+
+A simple Python tool that checks how strong a password is based on different rules like length, uppercase letters, lowercase letters, numbers, and symbols.
+
+---
+
+## 📸 Screenshot
+
+> Add your screenshot below
+
+![Password Strength Checker Screenshot](pass_strength.png)
+
+---
+
+## 🚀 Features
+
+- 🔍 Checks password strength in real time  
+- 🔠 Detects uppercase and lowercase letters  
+- 🔢 Checks for numbers  
+- 🔣 Checks for symbols  
+- 📏 Considers password length  
+- 📊 Gives a strength score (Weak / Medium / Strong)  
+- 🔁 Option to test multiple passwords  
+
+---
+
+## 🧠 Strength Levels
+
+- **0 - 2:** 🔓 Weak password  
+- **3 - 4:** 🔐 Medium password  
+- **5:** 🔒 Strong password  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3  
+- `string` module  
+- Loops and conditionals  
+- Basic input handling  
+
+---
+
+## 👨‍💻 Author
+
+**Abdo**  
+Cybersecurity Student | Networking Basics | Python Enthusiast
